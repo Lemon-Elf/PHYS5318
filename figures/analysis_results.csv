@@ -1,0 +1,7 @@
+File,Peaks,Freq Spacing (MHz),Linewidth (MHz),Linewidth (nm),Linewidth (pm),Cavity L (cm)
+Collect 001.csv,7,200.4,6.17,8.2410e-06,0.01,74.9
+Collect 002.csv,14,97.2,3.64,4.8645e-06,0.00,154.3
+Collect 004.csv,3,359.2,6.00,8.0117e-06,0.01,41.8
+Collect 008 - 216uW - TEM33.csv,3,350.5,13.20,1.7626e-05,0.02,42.8
+Collect 009 - 240uW - TEM40.csv,3,356.5,8.60,1.1483e-05,0.01,42.1
+Collect 010 - 56uW - TEM00.csv,3,367.0,5.20,6.9435e-06,0.01,40.9
